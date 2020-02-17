@@ -1,6 +1,6 @@
 
 """
-Program to log DEBUG com data in binary from OpenRTK330 on Raspberry Pi
+Program to log DEBUG com data in binary from OpenRTK330
 Created on 2020-02-13
 @author: xiankw
 """
