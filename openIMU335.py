@@ -1,6 +1,6 @@
 
 """
-Program to log OpenRTK335 data
+Program to log OpenIMU335 data
 Created on 2020-02-14
 @author: xiankw
 """
