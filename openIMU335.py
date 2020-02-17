@@ -1,4 +1,10 @@
-#!/usr/bin/python
+
+"""
+Program to log OpenRTK335 data
+Created on 2020-02-14
+@author: xiankw
+"""
+
 import serial
 import time
 import datetime
